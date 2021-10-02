@@ -1,6 +1,4 @@
-## Welcome to GitHub Page
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## 个人简历
 ### Markdown
 
 ## 我爱你
